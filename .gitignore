@@ -1,0 +1,10 @@
+# Windows / Arduino IDE
+*.hex
+*.elf
+*.bin
+build/
+
+# OS Files
+Thumbs.db
+.DS_Store
+
